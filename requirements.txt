@@ -1,0 +1,6 @@
+apache-airflow-providers-http
+apache-airflow-providers-postgres
+airflow-provider-mlflow
+mlflow-skinny
+prophet
+pyarrow
