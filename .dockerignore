@@ -6,3 +6,5 @@ logs/
 .venv
 airflow.db
 airflow.cfg
+mlflow.db
+mlruns/

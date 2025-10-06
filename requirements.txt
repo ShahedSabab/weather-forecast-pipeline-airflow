@@ -1,6 +1,7 @@
 apache-airflow-providers-http
 apache-airflow-providers-postgres
 airflow-provider-mlflow
+boto3
 mlflow-skinny
 prophet
 pyarrow
